@@ -12,6 +12,10 @@ PrefabInstance:
       propertyPath: hunger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 271173379550895941, guid: 729559e2836783648b3bcedef8729118, type: 3}
+      propertyPath: pointsOnFeed
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1966088613756326836, guid: 729559e2836783648b3bcedef8729118, type: 3}
       propertyPath: m_Sprite
       value: 

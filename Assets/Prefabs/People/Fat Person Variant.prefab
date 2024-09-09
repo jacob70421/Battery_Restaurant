@@ -17,6 +17,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: -260238544, guid: 2f2412bd8a684c149b3cc454b5e32a80, type: 3}
     - target: {fileID: 3286448288776160141, guid: dfc9495d76435a74db2484abeda60a4b, type: 3}
+      propertyPath: pointsOnFeed
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3286448288776160141, guid: dfc9495d76435a74db2484abeda60a4b, type: 3}
       propertyPath: scoreAdd.m_PersistentCalls.m_Calls.Array.size
       value: 0
       objectReference: {fileID: 0}
